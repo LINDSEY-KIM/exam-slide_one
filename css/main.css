@@ -53,6 +53,10 @@ button{
     background: transparent;
 }
 
+.dot_container button:nth-child(1){
+    background-color: #7f53ac;
+}
+
 #prev, #next{
     height: 40px;
     width: 40px;
